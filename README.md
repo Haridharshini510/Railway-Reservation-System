@@ -64,7 +64,6 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="1072" height="921" alt="444775818-f8b263aa-5dd3-4e5a-b7ed-396b0d79bb73" src="https://github.com/user-attachments/assets/42853d2d-91ff-42e6-b32c-2801c779d83a" />
 <img width="1232" height="1012" alt="495824223-ee60029d-3e40-4b10-b763-dd8a2aa1ec44" src="https://github.com/user-attachments/assets/5500d19d-9bc6-420d-a256-b615755ed2cd" />
 
 
@@ -74,8 +73,6 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-<img width="990" height="869" alt="489890164-862328e0-60a7-41d5-9528-a74d79e97b06" src="https://github.com/user-attachments/assets/069ef465-78ff-44cb-8146-1658bbc23feb" />
-<img width="990" height="869" alt="489890164-862328e0-60a7-41d5-9528-a74d79e97b06" src="https://github.com/user-attachments/assets/3085e93e-22d9-4205-9cfd-e7eb5037ffec" />
 <img width="1072" height="921" alt="444775818-f8b263aa-5dd3-4e5a-b7ed-396b0d79bb73" src="https://github.com/user-attachments/assets/bdce6282-c86a-4957-8855-594f057bb737" />
 
 
@@ -90,7 +87,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-<img width="990" height="869" alt="489890164-862328e0-60a7-41d5-9528-a74d79e97b06" src="https://github.com/user-attachments/assets/a4419e87-99c0-4b75-9d53-f5f3a4882136" />
+<img width="990" height="869" alt="489890164-862328e0-60a7-41d5-9528-a74d79e97b06" src="https://github.com/user-attachments/assets/264096c3-1a51-4fcb-af98-a6691a62725f" />
 
 # ACTIVITY DIAGRAM:
 
