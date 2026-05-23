@@ -31,7 +31,6 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
 
 <img width="1001" height="899" alt="image" src="https://github.com/user-attachments/assets/483d6377-f6e9-4ebd-856f-75e54b7d950c" />
-<img width="1232" height="1012" alt="495824223-ee60029d-3e40-4b10-b763-dd8a2aa1ec44" src="https://github.com/user-attachments/assets/5e220595-c517-4b17-ace3-33694ba70d31" />
 
 
 # UML use case diagrams are ideal for:
